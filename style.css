@@ -1,4 +1,4 @@
-body {background-color:none;}
+body {background-color:black;}
 h1{color:grey;}
 div.a {
    text-align: center;
@@ -16,4 +16,10 @@ div.c {
    width: 68em;
    font-family: "Times New Roman", Times, serif;
 }
+div.rcorners {
+  border-radius: 10px;
+  background:white;
+  margin: 0 auto;
+  text-align : center;
+ }
 
