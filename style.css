@@ -2,22 +2,18 @@ body {background-color:none;}
 h1{color:grey;}
 div.a {
    text-align: center;
-  
-  width: 80em;
-font-family: "Times New Roman", Times, serif;
- 
- }
+   width: 80em;
+   font-family: "Times New Roman", Times, serif;
+}
 div.b {
    text-align: justify;
-  margin: 0 auto;
-  width: 30em;
- font-family: Arial, Helvetica, sans-serif;
+   margin: 0 auto;
+   width: 30em;
+   font-family: Arial, Helvetica, sans-serif;
 }
 div.c {
    text-align: center;
-  
-  width: 68em;
-font-family: "Times New Roman", Times, serif;
- 
- }
+   width: 68em;
+   font-family: "Times New Roman", Times, serif;
+}
 
